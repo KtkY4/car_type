@@ -1,0 +1,5 @@
+bus
+suv
+truck
+van
+wagon

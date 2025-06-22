@@ -1,0 +1,4 @@
+compact_hatchback
+compact_sedan
+compact_suv
+compact_van
