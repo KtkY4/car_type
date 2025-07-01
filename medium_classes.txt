@@ -1,5 +1,3 @@
 convertible
-coupe
 minivan
-sedan
 station_wagon
